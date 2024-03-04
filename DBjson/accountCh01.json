@@ -1,0 +1,17 @@
+{
+    "title": ["id", "question", "options", "answer"],
+    "type": ["int++", "string", "json", "string"],
+    "content": [
+        [1, "Generally accepted accounting principles (GAAP) are formulated by the", ["A. Institute of Management Accountants (IMA)", "B. American Institute of Certified Public Accountants (AICPA)", "C. Securities and Exchange Commission (SEC)", "D. Financial Accounting Standards Board (FASB)"], "D"],
+        [2, "Which type of business organization is owned by its stockholders?", ["A. Corporation", "B. Partnership", "C. Proprietorship", "D. All the above are owned by stockholders"], "A"],
+        [3, "Which accounting concept or principle specifically states that we should record transactions at amounts that can be verified?", ["A. Entity concept", "B. Going-concern concept", "C. Cost principle", "D. Reliability principle"], "D"],
+        [4, "Fossil is famous for fashion wristwatches and leather goods. At the end of a recent year, Fossil's total assets added up to $ 381 million, and stockholders' equity was $264 million. How much were Fossil's liabilities?", ["A. Cannot determine from the data given", "B. $381 million", "C. $ 117 million", "D. $264 million"], "C"],
+        [5, "Assume that Fossil sold watches to a department store on account for $ 50,000. How would this transaction affect Fossil's accounting equation?", ["A. Increase both liabilities and stockholders' equity by $ 50,000", "B. Increase both assets and liabilities by $ 50,000", "C. Increase both assets and stockholders' equity by $ 50,000", "D. No effect on the accounting equation because the effects cancel out"], "C"],
+        [6, "Which parts of the accounting equation does a sale on account affect?", ["A. Accounts Receivable and Accounts Payable", "B. Accounts Receivable and Common Stock", "C. Accounts Payable and Retained Earnings", "D. Accounts Payable and Cash"], "B"],
+        [7, "Assume that Fossil paid expenses totaling $ 35,000. How does this transaction affect Fossil's accounting equation?", ["A. Increases assets and decreases liabilities", "B. Increases both assets and stockholders' equity", "C. Decreases assets and increases liabilities", "D. Decreases both assets and stockholders' equity"], "D"],
+        [8, "Consider the overall effects of transactions 5 and 7 on Fossil. What is Fossil's net income or net loss?", ["A. Net income of $ 15,000", "B. Net loss of $ 35,000", "C. Net income of $ 50,000", "D. Cannot determine from the data given"], "A"],
+        [9, "The balance sheet reports", ["A. Results of operations on a specific date", "B. Financial position on a specific date", "C. Financial position for a specific period", "D. Results of operations for a specific period"], "B"],
+        [10, "The income statement reports", ["A. Financial position on a specific date", "B. Results of operations on a specific date", "C. Results of operations for a specific period", "D. Financial position for a specific period"], "C"]
+    ]
+}
+
